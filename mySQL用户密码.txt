@@ -1,3 +1,10 @@
-ÕËºÅ£ºwxh
+ï¿½ËºÅ£ï¿½wxh
 
-ÃÜÂë£ºwenxuhong
+ï¿½ï¿½ï¿½ë£ºwenxuhong
+
+
+mysql.exe -uroot -p123456
+show databases;
+create database perfectcrm charset utf8;
+drop database perfectcrm;
+exit
